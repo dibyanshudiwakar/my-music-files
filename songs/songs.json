@@ -1,13 +1,17 @@
 [
   {
-    "title": "Chaudhary - Amit Trivedi feat Mame Khan",
+    "title": "Chaudhary",
     "url": "https://github.com/dibyanshudiwakar/my-music-files/blob/main/songs/Chaudhary%20-%20Amit%20Trivedi%20feat%20Mame%20Khan%2C%20Coke%20Studio%20%40%20MTV%20Season%202.mp3",
     "albumArtUrl": "https://github.com/dibyanshudiwakar/my-music-files/blob/main/songs/Chaudhary%20-%20Amit%20Trivedi%20feat%20Mame%20Khan%2C%20Coke%20Studio%20%40%20MTV%20Season%202.jpg",
-    "duration":420
+    "duration":420,
+    "artist" : "Amit Trivedi feat Mame Khan",
+    "album" : "Coke Studio @ MTV Season 2"
   },{
-    "title": "Husna - Hitesh Sonik feat Piyush Mishra",
+    "title": "Husna",
     "url": "https://github.com/dibyanshudiwakar/my-music-files/blob/main/songs/Husna%20-%20Hitesh%20Sonik%20feat%20Piyush%20Mishra%2C%20Coke%20Studio%20%40%20MTV%20Season%202.mp3",
     "albumArtUrl": "https://github.com/dibyanshudiwakar/my-music-files/blob/main/songs/Husna%20-%20Hitesh%20Sonik%20feat%20Piyush%20Mishra%2C%20Coke%20Studio%20%40%20MTV%20Season%202.jpg",
-    "duration":482
+    "duration":482,
+    "artist" : "Hitesh Sonik feat Piyush Mishra",
+    "album" : "Coke Studio @ MTV Season 2"
   }
 ]
